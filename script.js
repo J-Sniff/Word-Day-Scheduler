@@ -15,13 +15,12 @@ $(document).ready(function () {
         } else {
             $(this).addClass("future").removeClass("past present");
         }
-        console.log(hour)
     });
 
     $(".saveBtn").on("click", function () {
         var timeBlockId = $(this).parent().attr("id");
 
-        var text = $(this).siblings(".discription").val().trim();
+        var text = $(this).siblings(".description").val().trim();
 
         localStorage.setItem(timeBlockId, text);
     });
