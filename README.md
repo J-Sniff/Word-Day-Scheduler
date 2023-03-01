@@ -14,5 +14,6 @@ To get started let's go to the [page](). Once you have arrived to the applicatio
 ## Support
 
 If you notice any issues with the application or simply need some support. Please contact me using the following options.
--JacobS@email.com
--Jacob Sniff on Slack & Discord
+
+- JacobS@email.com
+- Jacob Sniff on Slack & Discord
