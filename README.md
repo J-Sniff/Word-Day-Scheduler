@@ -9,7 +9,7 @@ This scheduler provides you with the current date and time. It also allows you t
 
 ## Getting started
 
-To get started let's go to the [page](). Once you have arrived to the application you will quickly notice that it displays the current time and has the work day hours color coded based off the current hour. Here is an example picture below. 
+To get started let's go to the [page](https://j-sniff.github.io/challenge5-Word-Day-Scheduler/). Once you have arrived to the application you will quickly notice that it displays the current time and has the work day hours color coded based off the current hour. Here is an example picture below. 
 
 ![website](pics/Screenshot%202023.png)
 
